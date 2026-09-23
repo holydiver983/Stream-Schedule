@@ -43,10 +43,10 @@ const scheduleData = [
   },
   {
     day: "Saturday",
-    title: "null",
-    game: "null",
-    start: "null",
-    end: "null",
+    title: "Break / Busy",
+    game: "",
+    start: null ,
+    end: null ,
     status: "offline"
   },
   {
