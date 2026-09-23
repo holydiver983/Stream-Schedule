@@ -51,11 +51,11 @@ const scheduleData = [
   },
   {
     day: "Sunday",
-    title: "Cool-down & Casuals",
+    title: "Break / Busy",
     game: "Variety",
-    start: "16:00",
-    end: "19:00",
-    status: "live"
+    start: null ,
+    end: null ,
+    status: "offline"
   }
 ];
 
