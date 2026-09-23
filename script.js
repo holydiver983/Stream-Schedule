@@ -19,8 +19,8 @@ const scheduleData = [
   },
   {
     day: "Wednesday",
-    title: "Current And Or Backlog Day Lessgo",
-    game: "Offline",
+    title: "Onimusha then Crimson Moon Lessgo!",
+    game: "Onimusha then Crimson Moon",
     start: null,
     end: null,
     status: "offline"
