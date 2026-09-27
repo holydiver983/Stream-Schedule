@@ -6,7 +6,7 @@ const scheduleData = [
     title: "Backlog Day o7", //Change the title of the stream here, this is what will be displayed on the schedule
     game: "First Berseker Khazan", //Change the game being played here, this is what will be displayed on the schedule
     start: "20:00", //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
-    end: "00:30", //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
+    end: "22:30", //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
     status: "live" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
   },
   {
