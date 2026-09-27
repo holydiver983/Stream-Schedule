@@ -13,7 +13,7 @@ const scheduleData = [
     day: "Tuesday",
     title: "Yahkooza Tuesday",
     game: "Yakuza Kiwami 3",
-    start: "20:00",
+    start: "20:30",
     end: "00:30",
     status: "heat"
   },
@@ -21,7 +21,7 @@ const scheduleData = [
     day: "Wednesday",
     title: "More Onimusha Way of the Sword",
     game: "Onimusha Way of the Sword",
-    start: "20:00",
+    start: "20:30",
     end: "00:30",
     status: "heat"
   },
@@ -29,7 +29,7 @@ const scheduleData = [
     day: "Thursday",
     title: "Yahkooza Thursday",
     game: "Yakuza Kiwami 3",
-    start: "20:00",
+    start: "20:30",
     end: "00:30",
     status: "live"
   },
@@ -37,7 +37,7 @@ const scheduleData = [
     day: "Friday",
     title: "Roger Jr Legacy LESGO! Then some T8 ranked ",
     game: "Tekken Tag Tournament then Tekken 8",
-    start: "21:00",
+    start: "20:30",
     end: "00:30",
     status: "heat"
   },
