@@ -3,10 +3,10 @@ const BASE_TIMEZONE = "Australia/Sydney"; //change this to your desired base tim
 const scheduleData = [
   {
     day: "Monday", 
-    title: "Ranked Grind: Mishima Only", //Change the title of the stream here, this is what will be displayed on the schedule
-    game: "Tekken 8", //Change the game being played here, this is what will be displayed on the schedule
+    title: "Backlog Day o7", //Change the title of the stream here, this is what will be displayed on the schedule
+    game: "First Berseker Khazan", //Change the game being played here, this is what will be displayed on the schedule
     start: "20:00", //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
-    end: "22:00", //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
+    end: "00:30", //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
     status: "live" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
   },
   {
@@ -19,8 +19,8 @@ const scheduleData = [
   },
   {
     day: "Wednesday",
-    title: "Onimusha then Crimson Moon Lessgo!",
-    game: "Onimusha then Crimson Moon",
+    title: "More Onimusha Way of the Sword",
+    game: "Onimusha Way of the Sword",
     start: "20:00",
     end: "00:30",
     status: "heat"
@@ -36,7 +36,7 @@ const scheduleData = [
   {
     day: "Friday",
     title: "Roger Jr Legacy LESGO! Then some T8 ranked ",
-    game: "Tekken 2 then Tekken 8",
+    game: "Tekken Tag Tournament then Tekken 8",
     start: "21:00",
     end: "00:30",
     status: "heat"
