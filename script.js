@@ -36,7 +36,7 @@ const scheduleData = [
   {
     day: "Friday",
     title: "Roger Jr Legacy LESGO! Then some T8 Evo? ",
-    game: "Tekken Tag Tournament then Evo",
+    game: "Tekken Tag Tournament 2 then Evo",
     start: "20:30",
     end: "00:30",
     status: "heat"
