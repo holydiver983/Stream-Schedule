@@ -3,11 +3,11 @@ const BASE_TIMEZONE = "Australia/Sydney"; //change this to your desired base tim
 const scheduleData = [
   {
     day: "Monday", 
-    title: "Backlog Day o7", //Change the title of the stream here, this is what will be displayed on the schedule
-    game: "First Berseker Khazan", //Change the game being played here, this is what will be displayed on the schedule
-    start: "20:00", //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
-    end: "22:30", //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
-    status: "live" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
+    title: "Oh yeah definitely Streamed lol ", //Change the title of the stream here, this is what will be displayed on the schedule
+    game: "The Diver defintiely streamed Khazuyer", //Change the game being played here, this is what will be displayed on the schedule
+    start: null , //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
+    end: null , //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
+    status: "offline" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
   },
   {
     day: "Tuesday",
@@ -19,10 +19,10 @@ const scheduleData = [
   },
   {
     day: "Wednesday",
-    title: "More Onimusha Way of the Sword",
-    game: "Onimusha Way of the Sword",
+    title: "Roger Jr Legacy Double time o7",
+    game: "Tekken Tag Tournament 1 and Tekken 5 Dark Ressurection",
     start: "20:30",
-    end: "00:30",
+    end: "04:30",
     status: "heat"
   },
   {
@@ -35,27 +35,27 @@ const scheduleData = [
   },
   {
     day: "Friday",
-    title: "Roger Jr Legacy LESGO! Then some T8 ranked ",
-    game: "Tekken Tag Tournament then Tekken 8",
+    title: "Roger Jr Legacy LESGO! Then some T8 Evo? ",
+    game: "Tekken Tag Tournament then Evo",
     start: "20:30",
     end: "00:30",
     status: "heat"
   },
   {
     day: "Saturday",
-    title: "Break / Busy",
-    game: "",
-    start: null ,
-    end: null ,
-    status: "offline"
+    title: "More Evo Tekken and probably something else?",
+    game: "Playing something and watching some EVO",
+    start: "20:30" ,
+    end: "04:30" ,
+    status: "heat"
   },
   {
     day: "Sunday",
-    title: "Break / Busy",
-    game: "Variety",
-    start: null ,
-    end: null ,
-    status: "offline"
+    title: "Evo Tekken 8 Finals? Roger Jr Trailer? Yujiro first Look?",
+    game: "Evo Watch",
+    start: "20:30" ,
+    end: "04:30" ,
+    status: "heat"
   }
 ];
 
