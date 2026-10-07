@@ -4,7 +4,7 @@ const scheduleData = [
   {
     day: "Monday", 
     title: "Oh yeah definitely Streamed lol ", //Change the title of the stream here, this is what will be displayed on the schedule
-    game: "The Diver defintiely streamed Khazuyer", //Change the game being played here, this is what will be displayed on the schedule
+    game: "The Diver defintiely streamed Khazuyer & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ", //Change the game being played here, this is what will be displayed on the schedule
     start: null , //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
     end: null , //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
     status: "offline" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
@@ -20,15 +20,15 @@ const scheduleData = [
   {
     day: "Wednesday",
     title: "Roger Jr Legacy Double time o7",
-    game: "Tekken Tag Tournament 1 and Tekken 5 Dark Ressurection",
-    start: "20:30",
+    game: "Tekken Tag Tournament 1 and Tekken 5 Dark Ressurection & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
+    start: "21:45",
     end: "04:30",
     status: "heat"
   },
   {
     day: "Thursday",
     title: "Yahkooza Thursday",
-    game: "Yakuza Kiwami 3",
+    game: "Yakuza Kiwami 3 & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "00:30",
     status: "live"
@@ -36,7 +36,7 @@ const scheduleData = [
   {
     day: "Friday",
     title: "Roger Jr Legacy LESGO! Then some T8 Evo? ",
-    game: "Tekken Tag Tournament 2 then Evo",
+    game: "Tekken Tag Tournament 2 then Evo & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "00:30",
     status: "heat"
@@ -44,7 +44,7 @@ const scheduleData = [
   {
     day: "Saturday",
     title: "More Evo Tekken and probably something else?",
-    game: "Playing something and watching some EVO",
+    game: "Playing something and watching some EVO & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
     start: "20:30" ,
     end: "04:30" ,
     status: "heat"
@@ -52,7 +52,7 @@ const scheduleData = [
   {
     day: "Sunday",
     title: "Evo Tekken 8 Finals? Roger Jr Trailer? Yujiro first Look?",
-    game: "Evo Watch",
+    game: "Evo Watch & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
     start: "20:30" ,
     end: "04:30" ,
     status: "heat"
