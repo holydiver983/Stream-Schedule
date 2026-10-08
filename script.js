@@ -20,15 +20,15 @@ const scheduleData = [
   {
     day: "Wednesday",
     title: "Roger Jr Legacy Double time o7",
-    game: "Tekken Tag Tournament 1 and Tekken 5 Dark Ressurection & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
+    game: "Tekken Tag Tournament 1 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "21:45",
     end: "04:30",
     status: "heat"
   },
   {
     day: "Thursday",
-    title: "Yahkooza Thursday",
-    game: "Yakuza Kiwami 3 & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    title: "Roger Jr Leg.....",
+    game: "Tekken 5 Dark Ressurection also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "00:30",
     status: "live"
@@ -36,7 +36,7 @@ const scheduleData = [
   {
     day: "Friday",
     title: "Roger Jr Legacy LESGO! Then some T8 Evo? ",
-    game: "Tekken Tag Tournament 2 then Evo & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    game: "Tekken Tag Tournament 2 then Evo also MAYBE NIGHTREIGN COZ FUCK YOU JSTN  ",
     start: "20:30",
     end: "00:30",
     status: "heat"
@@ -44,7 +44,7 @@ const scheduleData = [
   {
     day: "Saturday",
     title: "More Evo Tekken and probably something else?",
-    game: "Playing something and watching some EVO & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
+    game: "Playing something and watching some EVO also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30" ,
     end: "04:30" ,
     status: "heat"
@@ -52,7 +52,7 @@ const scheduleData = [
   {
     day: "Sunday",
     title: "Evo Tekken 8 Finals? Roger Jr Trailer? Yujiro first Look?",
-    game: "Evo Watch & MAYBE NIGHTREIGN COZ FUCK YOU JSTN",
+    game: "Evo Watch also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30" ,
     end: "04:30" ,
     status: "heat"
