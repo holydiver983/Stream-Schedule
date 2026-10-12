@@ -3,8 +3,8 @@ const BASE_TIMEZONE = "Australia/Sydney"; //change this to your desired base tim
 const scheduleData = [
   {
     day: "Monday", 
-    title: "Oh yeah definitely Streamed lol ", //Change the title of the stream here, this is what will be displayed on the schedule
-    game: "The Diver defintiely streamed Khazuyer & MAYBE NIGHTREIGN COZ FUCK YOU JSTN ", //Change the game being played here, this is what will be displayed on the schedule
+    title: "No streams on Monday from here on until I need to o7 ", //Change the title of the stream here, this is what will be displayed on the schedule
+    game: " MAYBE NIGHTREIGN COZ FUCK YOU JSTN ", //Change the game being played here, this is what will be displayed on the schedule
     start: null , //Change the start time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display a start time, set this to null.
     end: null , //Change the end time of the stream here, this is what will be displayed on the schedule in the format of HH:MM (24-hour format), if you don't want to display an end time, set this to null.
     status: "offline" //Change the status of the stream here, this is what will be displayed on the schedule. Options are: "live"(red), "heat"(blue), "offline"
@@ -19,43 +19,43 @@ const scheduleData = [
   },
   {
     day: "Wednesday",
-    title: "Roger Jr Legacy Double time o7",
-    game: "Tekken Tag Tournament 1 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
-    start: "21:45",
-    end: "04:30",
+    title: "More Onimusha Way of the Swordo",
+    game: "Onimusha Way of the Sword MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    start: "20:30",
+    end: "01:00",
     status: "heat"
   },
   {
     day: "Thursday",
-    title: "Roger Jr Leg.....",
-    game: "Tekken 5 Dark Ressurection also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    title: "Yakuza Thursday",
+    game: "Yakuza Kiwami 3 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
     start: "20:30",
-    end: "00:30",
+    end: "01:00",
     status: "live"
   },
   {
     day: "Friday",
-    title: "Roger Jr Legacy LESGO! Then some T8 Evo? ",
-    game: "Tekken Tag Tournament 2 then Evo also MAYBE NIGHTREIGN COZ FUCK YOU JSTN  ",
-    start: "20:30",
-    end: "00:30",
+    title: "Am out o7 ",
+    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN  ",
+    start: null,
+    end: null,
     status: "heat"
   },
   {
     day: "Saturday",
-    title: "More Evo Tekken and probably something else?",
-    game: "Playing something and watching some EVO also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
-    start: "20:30" ,
-    end: "04:30" ,
-    status: "heat"
+    title: "Am out o7",
+    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    start: null ,
+    end: null ,
+    status: "offline"
   },
   {
     day: "Sunday",
-    title: "Evo Tekken 8 Finals? Roger Jr Trailer? Yujiro first Look?",
-    game: "Evo Watch also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
-    start: "20:30" ,
-    end: "04:30" ,
-    status: "heat"
+    title: "Am out o7",
+    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    start: null ,
+    end: null ,
+    status: "offline"
   }
 ];
 
