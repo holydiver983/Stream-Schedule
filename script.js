@@ -39,7 +39,7 @@ const scheduleData = [
     game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN  ",
     start: null,
     end: null,
-    status: "heat"
+    status: "offline"
   },
   {
     day: "Saturday",
