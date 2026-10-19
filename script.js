@@ -11,8 +11,8 @@ const scheduleData = [
   },
   {
     day: "Tuesday",
-    title: "Yahkooza Tuesday",
-    game: "Yakuza Kiwami 3",
+    title: "We need to get closer to that end",
+    game: "The First Berserker Khazan then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "00:30",
     status: "heat"
@@ -20,42 +20,42 @@ const scheduleData = [
   {
     day: "Wednesday",
     title: "More Onimusha Way of the Swordo",
-    game: "Onimusha Way of the Sword MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    game: "Onimusha Way of the Sword then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "01:00",
     status: "heat"
   },
   {
     day: "Thursday",
-    title: "Yakuza Thursday",
-    game: "Yakuza Kiwami 3 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
+    title: "Did I say I have a Backlog well yeah this is one of them",
+    game: "YOU SHALL SEE also then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "01:00",
     status: "live"
   },
   {
     day: "Friday",
-    title: "Am out o7 ",
-    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN  ",
-    start: null,
-    end: null,
-    status: "offline"
+    title: "Fight Night again maybe something after? ",
+    game: "Tekken 8 Ranked then maybe games with friendos COZ FUCK YOU JSTN  ",
+    start: "20:30",
+    end: "00:30",
+    status: "live"
   },
   {
     day: "Saturday",
-    title: "Am out o7",
-    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
-    start: null ,
-    end: null ,
+    title: "Trying game demo coz younger bro request so much...",
+    game: "Requested game then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "20:30" ,
+    end: "00:30",
     status: "offline"
   },
   {
     day: "Sunday",
-    title: "Am out o7",
-    game: "Am out o7 also MAYBE NIGHTREIGN COZ FUCK YOU JSTN ",
-    start: null ,
-    end: null ,
-    status: "offline"
+    title: "Maybe just Backlog?",
+    game: "One of the Backlogs also then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "20:30" ,
+    end: "00:30" ,
+    status: "live"
   }
 ];
 
