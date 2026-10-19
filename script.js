@@ -47,7 +47,7 @@ const scheduleData = [
     game: "Requested game then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30" ,
     end: "00:30",
-    status: "heat"
+    status: "live"
   },
   {
     day: "Sunday",
