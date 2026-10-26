@@ -11,49 +11,49 @@ const scheduleData = [
   },
   {
     day: "Tuesday",
-    title: "We need to get closer to that end",
-    game: "The First Berserker Khazan then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "20:30",
+    title: "STARTING SPOOKEM WEEK GAMES LETS GO!",
+    game: "REANIMAL then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "21:00",
     end: "00:30",
     status: "heat"
   },
   {
     day: "Wednesday",
-    title: "More Onimusha Way of the Swordo",
-    game: "Onimusha Way of the Sword then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "20:30",
+    title: "Reanimal",
+    game: "REANIMAL then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "21:00",
     end: "01:00",
     status: "heat"
   },
   {
     day: "Thursday",
-    title: "Did I say I have a Backlog well yeah this is one of them",
-    game: "YOU SHALL SEE also then maybe games with friendos COZ FUCK YOU JSTN ",
+    title: "Phantom Donnie Yen Blade Zero",
+    game: "Phantom Blade Zero also then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "01:00",
     status: "live"
   },
   {
     day: "Friday",
-    title: "Fight Night again maybe something after? ",
+    title: "Triple Threat Maybe? Tekken PB0 and Reanimal? maybe something after? ",
     game: "Tekken 8 Ranked then maybe games with friendos COZ FUCK YOU JSTN  ",
-    start: "20:30",
+    start: "21:00",
     end: "00:30",
     status: "live"
   },
   {
     day: "Saturday",
-    title: "Trying game demo coz younger bro request so much...",
-    game: "Requested game then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "20:30" ,
+    title: "Spookems so we shall see.",
+    game: "Whatevs on the day with friendos COZ FUCK YOU JSTN ",
+    start: "21:00" ,
     end: "00:30",
     status: "live"
   },
   {
     day: "Sunday",
-    title: "Maybe just Backlog?",
-    game: "One of the Backlogs also then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "20:30" ,
+    title: "Just whatever?",
+    game: " Something then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "21:00" ,
     end: "00:30" ,
     status: "live"
   }
