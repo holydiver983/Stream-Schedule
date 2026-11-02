@@ -11,17 +11,17 @@ const scheduleData = [
   },
   {
     day: "Tuesday",
-    title: "STARTING SPOOKEM WEEK GAMES LETS GO!",
-    game: "REANIMAL then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "21:00",
+    title: "The game do be really fun",
+    game: "Phantom Blade 0 then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "20:30",
     end: "00:30",
     status: "heat"
   },
   {
     day: "Wednesday",
-    title: "Reanimal",
-    game: "REANIMAL then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "21:00",
+    title: "More PB0",
+    game: "Phantom Blade 0 then maybe games with friendos COZ FUCK YOU JSTN ",
+    start: "20:30",
     end: "01:00",
     status: "heat"
   },
@@ -35,23 +35,23 @@ const scheduleData = [
   },
   {
     day: "Friday",
-    title: "Triple Threat Maybe? Tekken PB0 and Reanimal? maybe something after? ",
-    game: "Tekken 8 Ranked then maybe games with friendos COZ FUCK YOU JSTN  ",
-    start: "21:00",
-    end: "00:30",
-    status: "live"
+    title: "No Stream me going to a Concert o7 ",
+    game: "No Stream me going to a Concert o7 COZ FUCK YOU JSTN  ",
+    start: null,
+    end: null,
+    status: "offline"
   },
   {
     day: "Saturday",
-    title: "Spookems so we shall see.",
-    game: "Whatevs on the day with friendos COZ FUCK YOU JSTN ",
-    start: "21:00" ,
-    end: "00:30",
-    status: "live"
+    title: "No Stream me going to a Concert o7",
+    game: "No Stream me going to a Concert o7 COZ FUCK YOU JSTN ",
+    start: null ,
+    end: null,
+    status: "offline"
   },
   {
     day: "Sunday",
-    title: "Just whatever?",
+    title: "Just whatever? Most likely PB0? Could not stream also tbh",
     game: " Something then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "21:00" ,
     end: "00:30" ,
