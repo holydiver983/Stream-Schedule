@@ -11,51 +11,51 @@ const scheduleData = [
   },
   {
     day: "Tuesday",
-    title: "The game do be really fun",
-    game: "Phantom Blade 0 then maybe games with friendos COZ FUCK YOU JSTN ",
+    title: "Little Derust sesh for Roger JR then Phantom Blade 0 o7",
+    game: "Tekken 8 then PB0 COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "00:30",
     status: "heat"
   },
   {
     day: "Wednesday",
-    title: "More PB0",
-    game: "Phantom Blade 0 then maybe games with friendos COZ FUCK YOU JSTN ",
+    title: "More Derust sesh for Roger JR then Phantom Blade 0 o7",
+    game: "Tekken 8 then Phantom Blade 0 then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "01:00",
     status: "heat"
   },
   {
     day: "Thursday",
-    title: "Phantom Donnie Yen Blade Zero",
-    game: "Phantom Blade Zero also then maybe games with friendos COZ FUCK YOU JSTN ",
+    title: "Yeah Nah Yeah Nah Yeah Nah Yeah nah",
+    game: "Tekken 8 then maybe games with friendos COZ FUCK YOU JSTN ",
     start: "20:30",
     end: "01:00",
     status: "live"
   },
   {
     day: "Friday",
-    title: "No Stream me going to a Concert o7 ",
-    game: "No Stream me going to a Concert o7 COZ FUCK YOU JSTN  ",
-    start: null,
-    end: null,
+    title: "Fight night? More Phantom Blade? ",
+    game: "Tekken 8 mainly and other maybe? COZ FUCK YOU JSTN  ",
+    start: "20:30",
+    end: "01:00",
     status: "offline"
   },
   {
     day: "Saturday",
-    title: "No Stream me going to a Concert o7",
-    game: "No Stream me going to a Concert o7 COZ FUCK YOU JSTN ",
+    title: "No Stream me busy",
+    game: "No Stream me No Stream me busy COZ FUCK YOU JSTN ",
     start: null ,
     end: null,
     status: "offline"
   },
   {
     day: "Sunday",
-    title: "Just whatever? Most likely PB0? Could not stream also tbh",
+    title: "No Stream me going to a Concert o7",
     game: " Something then maybe games with friendos COZ FUCK YOU JSTN ",
-    start: "21:00" ,
-    end: "00:30" ,
-    status: "live"
+    start: null ,
+    end: null ,
+    status: "offline"
   }
 ];
 
