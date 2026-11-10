@@ -39,7 +39,7 @@ const scheduleData = [
     game: "Tekken 8 mainly and other maybe? COZ FUCK YOU JSTN  ",
     start: "20:30",
     end: "01:00",
-    status: "offline"
+    status: "heat"
   },
   {
     day: "Saturday",
