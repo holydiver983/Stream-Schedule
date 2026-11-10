@@ -12,7 +12,7 @@ const scheduleData = [
   {
     day: "Tuesday",
     title: "Little Derust sesh for Roger JR then Phantom Blade 0 o7",
-    game: "Tekken 8 then PB0 COZ FUCK YOU JSTN ",
+    game: "Tekken 8 then PB0 COZ FUCK YOU JSTN",
     start: "20:30",
     end: "00:30",
     status: "heat"
